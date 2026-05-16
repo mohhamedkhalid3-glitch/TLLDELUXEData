@@ -1073,6 +1073,7 @@ monsters:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
+Monsters/Monster_olga_rare
 -
 decorations:
 Decoration/Decoration_test
