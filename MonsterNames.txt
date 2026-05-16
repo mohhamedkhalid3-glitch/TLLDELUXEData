@@ -658,6 +658,12 @@ Wapapow
 Yip
 Juan
 ;
+Monsters/Monster_olga_rare
+if u get this name then idk
+balga
+olga
+four pipes
+;
 Monsters/Monster_arackulele
 Acktagon
 Gertsch
