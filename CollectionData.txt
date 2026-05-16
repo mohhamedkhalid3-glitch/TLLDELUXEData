@@ -154,7 +154,7 @@ Candy:
 Monsters/Monster_toejammer_undof
 Monsters/Monster_noggin_undof
 Monsters/Monster_noggin_rare_undof
-Monsters/Monster_epic_noggin_undof
+Monsters/Monster_noggin_epic_undof
 Monsters/Monster_kayna_undof
 Monsters/Monster_kayna_rare_undof
 Monsters/Monster_gumtromp
