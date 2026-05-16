@@ -772,6 +772,7 @@ Monsters/Monster_treble
 monster_rares:
 Monsters/Monster_gumtromp_rare
 Monsters/Monster_noggin_rare_undof
+Monsters/Monster_epic_noggin_undof
 Monsters/Monster_kayna_rare_undof
 Monsters/Monster_knife_rare
 Monsters/Monster_sprinklate_rare
