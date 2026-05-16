@@ -451,6 +451,11 @@ Puksus
 Omaga
 Mike
 ;
+Monsters/Monster_epic_noggin_undof
+Magma
+Earth
+Rocky
+;
 Monsters/Monster_whimstlop,Monsters/Monster_whimstlop_meduza
 Wizzle
 Hoyssuroo
