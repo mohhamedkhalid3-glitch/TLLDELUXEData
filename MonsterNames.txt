@@ -1257,6 +1257,15 @@ Smmore
 Squimb
 Ululula
 ;
+Monsters/Monster_noggin_epic_undof
+Althaya
+Closh
+Daktil
+rockeye
+bom tah
+rocky
+earthy
+;
 Monsters/Monster_oaktopus_rare
 Alby
 Creen
