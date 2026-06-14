@@ -20,7 +20,7 @@ Monsters/Monster_dulsylvan
 Monsters/Monster_bridgit
 Monsters/Monster_frondley
 Monsters/Monster_phangler
-Monsters/Monster_banno
+Monsters/Monster_banno_new
 Monsters/Monster_stoopa
 Monsters/Monster_maulch
 -
@@ -37,6 +37,8 @@ Monsters/Monster_spunge_rare
 Monsters/Monster_dulsylvan_rare
 Monsters/Monster_banno_rare
 Monsters/Monster_phangler_rare
+Monsters/Monster_likho_rare
+Monsters/Monster_dandidoo_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -399,14 +401,12 @@ Monsters/Monster_cybop
 Monsters/Monster_denchuhs
 Monsters/Monster_clamble
 Monsters/Monster_shellbeat
+Monsters/Monster_cranile Vortex=2
 Monsters/Monster_schmoochle
 Monsters/Monster_plixie
 Monsters/Monster_reebro
 Monsters/Monster_wheezel
 Monsters/Monster_knurv
--
-monster_rares:
-Monsters/Monster_oaktopus_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -651,13 +651,13 @@ Decoration/Decoration_sign_water
 ;
 Desert
 monsters:
-Monsters/Monster_scaratar
-Monsters/Monster_flootfly
-Monsters/Monster_furcorn
-Monsters/Monster_rootitoot
-Monsters/Monster_trox
-Monsters/Monster_spurrit_desert
-Monsters/Monster_bisonorus
+Monsters/Monster_scaratar diamonds=3500
+Monsters/Monster_flootfly diamonds=75
+Monsters/Monster_furcorn diamonds=125
+Monsters/Monster_rootitoot diamonds=150
+Monsters/Monster_trox Vortex=3
+Monsters/Monster_spurrit_desert Vortex=4
+Monsters/Monster_bisonorus Vortex=1
 -
 decorations:
 Decoration/Decoration_test
@@ -769,16 +769,41 @@ Monsters/Monster_jobo
 monster_secret:
 Monsters/Monster_treble
 -
+monster_replacement:
+Monsters/Monster_tannout_undof Vortex=3
+Monsters/Monster_tannout_rare_undof Vortex=6
+Monsters/Monster_eyesing_undof Vortex=3
+Monsters/Monster_eyesing_rare_undof Vortex=6
+Monsters/Monster_oraghoul_undof Vortex=3
+Monsters/Monster_oraghoul_rare_undof Vortex=6
+Monsters/Monster_stoad_undof Vortex=3
+Monsters/Monster_stoad_rare_undof Vortex=6
+Monsters/Monster_coodaloo_undof Vortex=3
+Monsters/Monster_coodaloo_rare_undof Vortex=6
+Monsters/Monster_salasine_undof Vortex=3
+Monsters/Monster_salasine_rare_undof Vortex=6
+Monsters/Monster_floodbud_undof Vortex=3
+Monsters/Monster_floodbud_rare_undof Vortex=6
+Monsters/Monster_burrythm_undof Vortex=3
+Monsters/Monster_burrythm_rare_undof Vortex=6
+Monsters/Monster_wicka_undof Vortex=3
+Monsters/Monster_wicka_rare_undof Vortex=6
+-
+monsters_celestials:
+Monsters/Monster_bone
+-
 monster_rares:
 Monsters/Monster_gumtromp_rare
 Monsters/Monster_noggin_rare_undof
-Monsters/Monster_noggin_epic_undof
-Monsters/Monster_toejammer_rare
 Monsters/Monster_kayna_rare_undof
 Monsters/Monster_knife_rare
 Monsters/Monster_sprinklate_rare
 Monsters/Monster_keytrus_rare
 Monsters/Monster_gobstomper_rare
+Monsters/Monster_marshflamo_rare
+Monsters/Monster_brasscuit_rare
+Monsters/Monster_koodahcane_rare
+Monsters/Monster_claramel_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -1074,7 +1099,6 @@ monsters:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
-Monsters/Monster_olga_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -1275,6 +1299,87 @@ Desert_path5
 Desert_path6
 EM_path5
 EM_path7
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+Decoration/Decoration_spam
+Decoration/Decoration_sign_air
+Decoration/Decoration_sign_candy
+Decoration/Decoration_sign_celestial
+Decoration/Decoration_sign_cold
+Decoration/Decoration_sign_crystal
+Decoration/Decoration_sign_dream
+Decoration/Decoration_sign_earth
+Decoration/Decoration_sign_electricity
+Decoration/Decoration_sign_faerie
+Decoration/Decoration_sign_bone
+Decoration/Decoration_sign_fire
+Decoration/Decoration_sign_empty
+Decoration/Decoration_sign_gm
+Decoration/Decoration_sign_knottshurr
+Decoration/Decoration_sign_light
+Decoration/Decoration_sign_organ
+Decoration/Decoration_sign_plant
+Decoration/Decoration_sign_plasma
+Decoration/Decoration_sign_psychic
+Decoration/Decoration_sign_special
+Decoration/Decoration_sign_supercelestial
+Decoration/Decoration_sign_water
+;
+MG
+monsters:
+Monsters/Monster_krillby_dof
+Monsters/Monster_mammott
+Monsters/Monster_toejammer
+Monsters/Monster_shellbeat
+Monsters/Monster_gecho
+Monsters/Monster_furcorn
+Monsters/Monster_bowgart
+Monsters/Monster_maw
+Monsters/Monster_potbelly
+Monsters/Monster_varrow
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_crafter
+Structures/Structure_bakery
+Structures/Structure_timemachine
+-
+deco_paths:
+EM_path1
 -
 deco_trees:
 Decoration/Decoration_test

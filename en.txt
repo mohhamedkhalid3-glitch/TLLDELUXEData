@@ -58,7 +58,7 @@ Monsters/Monster_rootitoot_young_bio=The calm air that young Rootitoots provide 
 Monsters/Monster_bridgit_young=Young Bridg-it
 Monsters/Monster_bridgit_young_bio=Young Bridg'its love bows, tiaras and anything that makes them look adorable, their hair is always well decorated and combed, however, they have such tiny arms, they can't do all this work by themselves! Luckily there is always a motherly Scaratar nearby who is willing to help them with their tangly issues.
 Monsters/Monster_frondley_young=Young Frondley
-Monsters/Monster_frondley_young_bio=Young Frondley bio
+Monsters/Monster_frondley_young_bio=Little as they are, Young Frondleys love to sunbathe with surrounding palm trees, lifting their strands of hair up as they do it. Research shows they do this in order to absorb more sun rays and enhance hair development, seeing as their locks havent quite reached eye level yet. Rarely, a fellow monster will mistake them for a real palm tree, and give them a good shake to see what falls out. Frondleys don't mind this, however. They're too zen to even get mad.
 Monsters/Monster_trox_young=Young T-Rox
 Monsters/Monster_trox_young_bio=Young T-Rox bio
 
@@ -121,14 +121,10 @@ Monsters/Monster_cybop_bio=Much more than mere gizmos, Cybops are deep thinkers,
 #TLLPS#
 Monsters/Monster_quibble_rare=Rare Quibble
 Monsters/Monster_quibble_rare_bio=Some Quibbles flat out refuse to grow up - in fact, it's one of the few things the two heads can agree upon. Rare Quibbles, who naturally retain the short, stout beaks of their youth, really commit: they preen their crests into radical feather-dos and never replace the colorful keyboards they played as hatchlings. They do need to use beak extenders to reach the rocks... but whatever, man. Still totally hardcore.
-Monsters/Monster_knife_rare=Rare Banchi
-Monsters/Monster_knife_rare_bio=Unlike some Banchi's, Rare Banchi is the only one that changes its color not by fear, but by it's own will. And he doesn't want to do it due to his laziness. Wow.
-Monsters/Monster_gobstomper_rare=Rare Gobstomper
-Monsters/Monster_gobstomper_rare_bio=NRAHHH! Says the Rare Gobstomper. Maw has pissed him so much, that he has even turned purple, which makes other monsters afraid of him. Wonderful.
-Monsters/Monster_keytrus_rare=Rare Keytrus
-Monsters/Monster_keytrus_rare_bio=The Rare Keytrus is a wonderful creature of them all..via the power of the Limes, they have successfully converted themselves to Lime'oxotic! ...Who am I kidding, they've just painted themselves green.
+
 str_island_composer=Composer Island
 str_island_temmie=Temmie Village
+
 Monsters/composer/Monster_potbelly_composer=Potbelly
 Monsters/composer/Monster_potbelly_composer_bio=Potbelly bio
 Monsters/composer/Monster_toejammer_composer=Toe Jammer
@@ -151,10 +147,9 @@ Monsters/composer/Monster_oaktopus_composer=Oaktopus
 Monsters/composer/Monster_oaktopus_composer_bio=Oaktopus bio
 Monsters/composer/Monster_spunge_composer=Spunge
 Monsters/composer/Monster_spunge_composer_bio=Spunge bio
-Monsters/Monster_sprinklate_rare=Rare Sprinklate
-Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate...the one alpha Sprinklate that ate too much chocolate...Good times. Anyway, this one particularly creative monster is made with a bit TOO much glitter on top of it, that it was shiny as heck, hence they were bullied in their childhood. You better feed it, or <color="red">he</color> will come...
+
 Monsters/Monster_yool_young=Young Yool
-Monsters/Monster_yool_young_bio=Young Yool Bio
+Monsters/Monster_yool_young_bio=Something that has fascinated both monsters and researchers alike, is the Young Yool's remarkably long beard! Functioning almost as an extra appendage, they utilise this "Yeard" of theirs to reach high up on the Yay Tree, perfect for placing the tree-topper without the help of a grown-up. Unfortunately for them, this beard does not grow along with age, leading many Adult Yools to try and grow out their fur to recapture those childhood memories. Ah, the good ol' days...
 Monsters/Monster_jeeode_young=Young Jeeode
 Monsters/Monster_jeeode_young_bio=Young Jeeode Bio
 Monsters/Monster_brump_young=Young Brump
@@ -218,6 +213,84 @@ Decoration/Decoration_sign_water_bio=<ref>SignBio
 Decoration/Decoration_sign_empty_bio=<ref>SignBio
 Decoration/Decoration_sign_bone_bio=<ref>SignBio
 
+Monsters/Monster_tannout_undof=Tannout
+Monsters/Monster_tannout_undof_bio=Tannout bio
+Monsters/Monster_tannout_rare_undof=Rare Tannout
+Monsters/Monster_tannout_rare_undof_bio=Rare Tannout bio
+
+Monsters/Monster_eyesing_undof=Eyesing
+Monsters/Monster_eyesing_undof_bio=Eyesing bio
+Monsters/Monster_eyesing_rare_undof=Rare Eyesing
+Monsters/Monster_eyesing_rare_undof_bio=Rare Eyesing bio
+
+Monsters/Monster_oraghoul_undof=Oraghoul
+Monsters/Monster_oraghoul_undof_bio=Oraghoul bio
+Monsters/Monster_oraghoul_rare_undof=Rare Oraghoul
+Monsters/Monster_oraghoul_rare_undof_bio=Rare Oraghoul bio
+
+Monsters/Monster_stoad_undof=Stoad
+Monsters/Monster_stoad_undof_bio=Stoad bio
+Monsters/Monster_stoad_rare_undof=Rare Stoad
+Monsters/Monster_stoad_rare_undof_bio=Rare Stoad bio
+
+Monsters/Monster_coodaloo_undof=Coodaloo
+Monsters/Monster_coodaloo_undof_bio=Coodaloo bio
+Monsters/Monster_coodaloo_rare_undof=Rare Coodaloo
+Monsters/Monster_coodaloo_rare_undof_bio=Rare Coodaloo bio
+
+Monsters/Monster_salasine_undof=Salasine
+Monsters/Monster_salasine_undof_bio=Salasine bio
+Monsters/Monster_salasine_rare_undof=Rare Salasine
+Monsters/Monster_salasine_rare_undof_bio=Rare Salasine bio
+
+Monsters/Monster_floodbud_undof=Floodbud
+Monsters/Monster_floodbud_undof_bio=Floodbud bio
+Monsters/Monster_floodbud_rare_undof=Rare Floodbud
+Monsters/Monster_floodbud_rare_undof_bio=Rare Floodbud bio
+
+Monsters/Monster_burrythm_undof=Burrythm
+Monsters/Monster_burrythm_undof_bio=Burrythm bio
+Monsters/Monster_burrythm_rare_undof=Rare Burrythm
+Monsters/Monster_burrythm_rare_undof_bio=Rare Burrythm bio
+
+Monsters/Monster_wicka_undof=Wicka
+Monsters/Monster_wicka_undof_bio=Wicka bio
+Monsters/Monster_wicka_rare_undof=Rare Wicka
+Monsters/Monster_wicka_rare_undof_bio=Rare Wicka bio
+
+Monsters/Monster_sprinklate_rare=Rare Sprinklate
+Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate bio
+
+Monsters/Monster_knife_rare=Rare Banchi
+Monsters/Monster_knife_rare_bio=Rare Banchi bio
+
+Monsters/Monster_gobstomper_rare=Rare Gobstomper
+Monsters/Monster_gobstomper_rare_bio=Rare Gobstomper bio
+
+Monsters/Monster_keytrus_rare=Rare Keytrus
+Monsters/Monster_keytrus_rare_bio=Rare Keytrus bio
+
+Monsters/Monster_marshflamo_rare=Rare Marshflamo
+Monsters/Monster_marshflamo_rare_bio=Rare Marshflamo bio
+
+Monsters/Monster_brasscuit_rare=Rare Brasscuit
+Monsters/Monster_brasscuit_rare_bio=Rare Brasscuit bio
+
+Monsters/Monster_koodahcane_rare=Rare Koodahcane
+Monsters/Monster_koodahcane_rare_bio=Rare Koodahcane bio
+
+Monsters/Monster_claramel_rare=Rare Claramel
+Monsters/Monster_claramel_rare_bio=Rare Claramel bio
+
+Monsters/Monster_dandidoo_rare=Rare Dandidoo
+Monsters/Monster_dandidoo_rare_bio=Rare Dandiduo bio
+
+Monsters/Monster_cranile=Cranile
+Monsters/Monster_cranile_bio=This gem-ladden double elemental sees no fear - in fact it can barely see a thing at all! Relying on its trusty “see-pickles” for much of its still quite limited  vision and hearing, the Cranile is a wacky creature. When not erratically stomping around, they’re often seen racing against nobody at all, or devouring rocks. It’s like Handmond - it genuinely doesn’t feel like it needs lengthening past that.
+
+Monsters/Monster_banno_new=Banno
+Monsters/Monster_banno_new_bio=Banno is a vocalist of the legendary Cancer Choir, for a long time he spent his time in the deep cold depths of the ocean. Sadly though, it was far too cold for his hot water-loving body! Instead of moving into a geyser of some sort, he decided to stay close to his friends, utilizing an endlessly boiling bucket to keep comfy. Whilst his boiling red abdomen may be concerning, there’s no need to worry- Banno states that it’s just his natural color showing after the cleaning of thousands of years of sea gunk.
+
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
@@ -266,7 +339,10 @@ Monsters/Monster_jobo=Jodel
 Monsters/Monster_jobo_bio=As sweetened Werdo, Jodel knows alot about Candy Island's colossal, as it knows how it was made, but it knows every single monster's likes as Jodel knew when Jam Boree will arrive.
 
 Monsters/Monster_treble=Ethenor
-Monsters/Monster_treble_bio=Ethenor bio
+Monsters/Monster_treble_bio=Although having nothing in common with the colossal of Candy Island, they have some "relation" with Jodel!  With their cotton candy-like color and their enjoyment of pink foods, there's no wonder why this monster wouldn't live here!  In-Fact, they are very identical towards Pom-Pom, except no-mon knows why.  Ethenor is still trying to find where else the Pocket Dimension can lead to. Everyone, found in the known lands, will let Ethanor find a way, but Ghazt won't tell a soul... oh well, off to exploring I guess?
+
+Monsters/Monster_likho_rare=Rare Yap
+Monsters/Monster_likho_rare_bio=Rare Yap bio
 
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=<ref>DipsterBio
@@ -373,7 +449,7 @@ Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_
 Monsters/Knott_1=Knottshurr Tree
 Monsters/Knott_1_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
 Monsters/Knott_2=Bay
-Monsters/Knott_2_bio=Bay bio
+Monsters/Knott_2_bio=Trying to find your footing in the Knottshurr Island Ecosystem is no simple task, and the Bay species knows this all too well. They can't take a nap, lest they get kicked and tossed around like a hackeysack, they can't move around much, seeing as they're lacking any legs or limbs to speak of, and worst of all, they don't have any taste buds! Who's horrible idea was it to take away their ability to enjoy candies, and veggies, and all inbetween??
 Monsters/Knott_3=Souxls Vessel
 Monsters/Knott_3_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
 Monsters/Knott_4=BoOoo
@@ -984,6 +1060,9 @@ str_island_dream_bio=what the actual fwog
 str_island_Ohio=Ohio Island
 str_island_Ohio_bio=Sticking out your Yap for the Handmond\nYour so Plixie\nYour so Caramel\nI just wanna be your Dipster\nFreaking come here\nGive me your Gobstomper
 
+str_island_MG=Magestic Island
+str_island_MG_bio=Magestic Island bio
+
 str_island_lvl=Lvl <lvl>
 
 str_island_unlock=Unlocked at\n<color=green>Level <lvl>
@@ -1094,6 +1173,7 @@ btn_shop_celestials=Celestials
 btn_shop_babyMomsters=Young Monsters
 btn_shop_secrets=Secret Monsters
 btn_shop_rares=Rare Monsters
+btn_shop_replacements=Replacement Monsters
 
 btn_move=Move
 btn_mute=Mute
@@ -1205,8 +1285,8 @@ Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... It seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think.
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
-Monsters/Monster_olga_rare=Rare Olgaropipe
-Monsters/Monster_olga_bio=Sent into the chronic void, Hyddryd's aquatic element overwhelmed all matter and reformed monsters into new identites, creating new monsters like the kind and soft Rare Olgaropipe. 
+Monsters/Monster_tabicrab=Tabicrab
+Monsters/Monster_tabicrab_bio=Tabicrab bio
 
 str_island_Minigame_YapLeap=Yap Leap
 
@@ -1222,6 +1302,7 @@ Monsters/Scaratar=Scaratar
 Monsters/Loodvigg=Loodvigg
 Monsters/Uuduk=Uuduk
 Monsters/Whimmzies=Wimmzies
+Monsters/Gobbley=Gobbleygourd
 
 Monsters/Bonapetite_bio=Some musicians tickle the ivories, but the Bona-Petite prefers tickling the ribs. Or perhaps 'having its ribs tickled' is more accurate, depending on which of these two percussionists we're talking about here. Truth is, each is symbiotically connected to the other and equally responsible for delivering punchy kick patterns peppered with a little bottom-end bulk. The duo consists of two monsters, amiably dubbed 'Bona' and 'Petite' by their Wublin pals. The smaller Petite puts the 'riff' in 'midriff,' while the larger Bona grumbles endlessly about indigestion.
 Monsters/Congle_bio=2112-09-04
@@ -1234,6 +1315,15 @@ Monsters/Scaratar_bio=No longer forced to lay its trademark instrument on the gr
 Monsters/Loodvigg_bio=Perhaps it's motivated by some sense of latent rebelliousness, or maybe it was just time for a change, but the adult Loodvigg has embraced the exact opposite of Shadow - Light! It grafts gleaming gems onto the teeth of its keyboard, coiffs its hair, cuffs and ruff, and prioritizes flashy and flamboyant flourishes in its musical performance.
 Monsters/Uuduk_bio=For each year of life, the Uuduk gains an extra vertebra in its slinky spine. The full height of an Uuduk, however, is hidden from view deep beneath the soil: an Uuduk never reveals its age! Wear-and-tear on its impressive blowhorns may hint at the number of birthdays this coy Monster has seen, but it just as easily could indicate how itchy it was that day.
 Monsters/Whimmzies_bio=Wimmzies are a bubbly chorus of Monsters positively bursting at the seams with delight. It's this very overflowing of glee that is cause for the sorority of singers' patchwork appearance: their delicately-sewn casings contain the fine mist that makes up the Wimmzie's upper bodies! Little more than fluttering eyelashes and tapping toes, this squad is nonetheless erupting with joy and - of course - whimsy.
+Monsters/Gobbley_bio=Gobbleygourd Bio
+
+#MAGESTIC ISLAND#
+Monsters/Monster_krillby_dof=Krillby
+Monsters/Monster_krillby_dof_bio=It is unclear whether Krillby's vestigial wings are powerful enough for sustained flight, but this Fire Monster is more at home on the ground than in the air. Its talons make it easy to maneuver across many different terrains, while its wings guide the air in and around the ocarina-like bodies to help produce the lovely whistles for which they are known. This also regulates the Krillby's body temperature when running very fast, something you have to do often when you look as tasty as Krillby does.
+Monsters/Monster_gecho=Gecho
+Monsters/Monster_gecho_bio=Gecho Bio
+Monsters/Monster_bowgart=Bowgart
+Monsters/Monster_bowgart_bio=Ooh - what a lovely sound! A team player, a Bowgart can always lend a hand - or four! The nimble Bowgart is a legend at multitasking, but when time comes a-running they're ready to drop everything, bows in hand, and help the monster orchestra out. As equally balanced between their 3 elements, they are able to provide a true harmony, which all their fellow monsters appreciate immensely.
 
 #DEMENTED ISLAND#
 

@@ -26,6 +26,7 @@ Monsters/Monster_spunge_rare diamonds=180 water@air@plant 86400 50 coins=2@72@co
 Monsters/Monster_dulsylvan_rare diamonds=160 air@plant@faerie 93600 60 coins=2@72@coins=520 Magical-r dulsylvan_rare,dulsylvan_rare 0 0
 Monsters/Monster_banno_rare diamonds=160 air@water@faerie 93600 60 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
 Monsters/Monster_phangler_rare diamonds=1000 water@fire 72000 30 coins=2@80@coins=180 Natural-r phangler_rare,phangler_rare 0 0
+Monsters/Monster_likho_rare diamonds=160 plant@faerie 46000 30 coins=2@80@coins=150 Magical likho,likho 6 0
 
 Monsters/Monster_clamble diamonds=70 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
 
@@ -36,7 +37,6 @@ Monsters/Monster_pango diamonds=40 air@cold 28800 15 coins=1@80@coins=90 Natural
 Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga,olga 0 0
 Monsters/Monster_potbellyGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
 Monsters/Monster_quibbleGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
-Monsters/Monster_olga_rare diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga Rare,olga Rare 0 0
 
 Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
@@ -179,7 +179,6 @@ Monsters/Knott_special_rare diamonds=2000 knottshurr 0 10000000 diamonds=5,stars
 Monsters/Monster_maulch coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,maulch 0 3
 
 Monsters/Monster_poewk coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,poewk 0 3
-Monsters/Monster_flowerning coins=10000000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,flower 0 3
 
 Monsters/Monster_pixolotl coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,pixolotl 0 3
 
@@ -200,7 +199,6 @@ Monsters/Monster_kayna_rare_undof diamonds=150 fire-o 28800 5 coins=5@60@coins=3
 
 Monsters/Monster_noggin_undof coins=300 earth-o 5 5 coins=4@60@coins=18 Natural noggin-o,noggin-o 0 0
 Monsters/Monster_noggin_rare_undof diamonds=75 earth-o 5 5 coins=5@120@coins=240 Natural-r noggin_rare-o,noggin_rare-o 0 0
-Monsters/Monster_noggin_epic_undof diamonds=75 earth-o 5 5 coins=5@120@coins=240 Natural-r noggin_epic-o,noggin_epic-o 0 0
 
 Monsters/Monster_fwog_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural fwog-o,fwog-o 0 0
 Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural thrumble-o,thrumble-o 0 0
@@ -411,11 +409,11 @@ Monsters/VOIDCORN_dream coins=500 nightmare 0 150 coins=500@120@coins=60 nightma
 Monsters/Monster_dragong_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
 
 
-Monsters/Bonapetite coins=0 electricity 0 25 coins=0@120@coins=60 encased , 0 0
-Monsters/Congle coins=0 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
-Monsters/Gnarls coins=0 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
-Monsters/Krillby coins=0 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
-Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
+Monsters/Bonapetite coins=10000 electricity 0 25 coins=0@120@coins=60 encased , 0 0
+Monsters/Congle diamonds=250 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
+Monsters/Gnarls diamonds=800 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
+Monsters/Krillby diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
+Monsters/Pladdie diamonds= earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
 Monsters/Scaratar coins=0 celestial 0 20 coins=0@120@coins=60 encased , 0 0
 Monsters/Uuduk coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 0 0
 Monsters/Whimmzies coins=0 fire@faerie 0 5 coins=0@120@coins=60 encased , 0 0
@@ -428,3 +426,52 @@ Monsters/Monster_gobstomper_rare diamonds=350 earth-o@candy 32400 16 coins=7@60@
 Monsters/Monster_knife_rare diamonds=800 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife_rare,knife_rare 0 0
 Monsters/Monster_sprinklate_rare diamonds=800 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate_rare,sprinklate_rare 0 0
 Monsters/Monster_fwogGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma fwogGM,fwogGM 0 0
+Monsters/Monster_tabicrab diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma tabicrab,tabicrab 0 0
+
+Monsters/Monster_gecho diamonds=850 plant@earth@light@poison@fire 32400 16 coins=14@60@coins=481 Magical gecho,gecho 0 0
+Monsters/Monster_bowgart diamonds=350 plant@water@cold 32400 16 coins=7@60@coins=481 Natural bowgart,bowgart 0 0
+Monsters/Monster_krillby_dof diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 Natural krillby,krillby 0 0
+
+Monsters/Monster_flowerning diamonds=250 plant@special 0 10 coins=5@60@coins=60 Natural flowerning,flowerning 0 0
+Monsters/Gobbley diamonds=2 special 0 5 coins=15@120@coins=300 Seasonal gobbley,gobbley 0 0
+
+Monsters/Monster_floodbud_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud-o,floodbud-o 0 0
+Monsters/Monster_floodbud_rare_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud_rare-o,floodbud_rare-o 0 0
+
+Monsters/Monster_wicka_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural wicka-o,wicka-o 0 0
+Monsters/Monster_wicka_rare_undof diamonds=150 fire-o 28800 5 coins=5@60@coins=300 Natural-r wicka_rare-o,wicka_rare-o 0 0
+
+Monsters/Monster_burrythm_undof coins=300 earth-o 5 5 coins=4@60@coins=18 Natural burrythm-o,burrythm-o 0 0
+Monsters/Monster_burrythm_rare_undof diamonds=75 earth-o 5 5 coins=5@120@coins=240 Natural-r burrythm_rare-o,burrythm_rare-o 0 0
+
+Monsters/Monster_stoad_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural stoad-o,stoad-o 0 0
+Monsters/Monster_stoad_rare_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural stoad_rare-o,stoad_rare-o 0 0
+
+Monsters/Monster_coodaloo_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural coodaloo-o,coodaloo-o 0 0
+Monsters/Monster_coodaloo_rare_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural coodaloo_rare-o,coodaloo_rare-o 0 0
+
+Monsters/Monster_tannout_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural tannout-o,tannout-o 0 0
+Monsters/Monster_tannout_rare_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural tannout_rare-o,tannout_rare-o 0 0
+
+Monsters/Monster_salasine_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural salasine-o,salasine-o 0 0
+Monsters/Monster_salasine_rare_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural salasine_rare-o,salasine_rare-o 0 0
+
+Monsters/Monster_eyesing_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal eyesing-o,eyesing-o 0 0
+Monsters/Monster_eyesing_rare_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal eyesing_rare-o,eyesing_rare-o 0 0
+
+Monsters/Monster_oraghoul_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal oraghoul-o,oraghoul-o 0 0
+Monsters/Monster_oraghoul_rare_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal oraghoul_rare-o,oraghoul_rare-o 0 0
+
+Monsters/Monster_marshflamo_rare diamonds=450 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo_rare,marshflamo_rare 0 0
+
+Monsters/Monster_brasscuit_rare diamonds=500 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit_rare,brasscuit_rare 0 0
+
+Monsters/Monster_koodahcane_rare diamonds=350 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane_rare,koodahcane_rare 0 0
+
+Monsters/Monster_claramel_rare diamonds=450 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel_rare,claramel_rare 0 0
+
+Monsters/Monster_dandidoo_rare diamonds=120 air@plant 28800 15 coins=1@80@coins=90 Natural dandidoo_rare,dandidoo_rare 4 0
+
+Monsters/Monster_cranile diamonds=140 cold@bone 28800 15 coins=1@80@coins=90 Magical cranile,cranile 4 0
+
+Monsters/Monster_banno_new diamonds=80 air@water@faerie 46800 30 coins=1@72@coins=260 Magical banno,banno 6 0
